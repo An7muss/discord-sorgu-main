@@ -1,5 +1,5 @@
 ﻿module.exports = {
-
+ddd
     token: "",
     prefix: ".",
     sahip: "1050457800054153256",
