@@ -1,8 +1,8 @@
 ﻿module.exports = {
-ddd
-    token: "",
+
+    token: "MTMzNTYwMjQwNTYwNTI0NDk1OQ.GZblET.ha7JLGsesTW_4ZxK0lD-kfZ1RS9ssZ9f0cx2Wo",
     prefix: ".",
-    sahip: "1050457800054153256",
+    sahip: "852982791212892200",
     durum: ".gg/mernistr",
 
     api: {
@@ -41,8 +41,8 @@ ddd
 
     wl: [""], // log tutmaz - rowy farkı ;)
 
-    sunucuID: "1030585428757192755",
-    kanal: ["1066332007711379466"],
+    sunucuID: "1191509917346050129",
+    kanal: ["1335603085325631540"],
     seskanal: "1064677419526660187",
 
     sorgulimit: "600",
